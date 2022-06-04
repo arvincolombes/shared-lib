@@ -1,3 +1,3 @@
-def call(string name,string defnumric) {
+def call(String name,String defnumric) {
   sh "echo hello $(name), Today is funday $(defnumaric)"
 } 
